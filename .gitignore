@@ -40,4 +40,7 @@ out/
 *.jar
 *.war
 *.ear
+<<<<<<< HEAD
 >>>>>>> aa89fe0 (feat: configurações iniciais)
+=======
+>>>>>>> df386aa (Initial commit)
