@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Compiled class file
 *.class
 
@@ -25,3 +26,18 @@ replay_pid*
 
 # Kotlin Gradle plugin data, see https://kotlinlang.org/docs/whatsnew20.html#new-directory-for-kotlin-data-in-gradle-projects
 .kotlin/
+=======
+
+build/
+.gradle/
+.idea/
+out/
+
+
+*.log
+*.iml
+*.class
+*.jar
+*.war
+*.ear
+>>>>>>> aa89fe0 (feat: configurações iniciais)
