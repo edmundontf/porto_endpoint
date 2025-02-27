@@ -1,0 +1,13 @@
+
+build/
+.gradle/
+.idea/
+out/
+
+
+*.log
+*.iml
+*.class
+*.jar
+*.war
+*.ear

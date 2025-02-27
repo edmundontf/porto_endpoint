@@ -1,0 +1,14 @@
+{
+    "pessoa_1": {
+        "name": "edmundo",
+        "city": "catanduva",
+        "country": "Brasil",
+        "coordinates": [55.5136433, 25.4052165]
+    },
+    "pessoa_2": {
+        "name": "ana",
+        "city": "catigua",
+        "country": "Brasil",
+        "coordinates": [55.5136433, 25.4052165]
+    }
+}
